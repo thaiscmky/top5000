@@ -1,0 +1,22 @@
+{
+  "name": "top5000songs",
+  "version": "0.1.0",
+  "description": "Information for the top 5000 songs on the charts",
+  "main": "main.js",
+  "scripts": {
+    "install" : "setup/install.js"
+  },
+  "dependencies" : {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaiscmky/top5000songs.git"
+  },
+  "author": "Thais Cailet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaiscmky/top5000songs/issues"
+  },
+  "homepage": "https://github.com/thaiscmky/top5000songs#readme"
+}

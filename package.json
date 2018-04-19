@@ -8,7 +8,8 @@
   },
   "dependencies" : {
     "inquirer": "~5.2.*",
-    "mysql": "~2.15.*"
+    "mysql": "~2.15.*",
+    "dotenv": "~5.*"
   },
   "repository": {
     "type": "git",
